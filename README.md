@@ -1,3 +1,5 @@
+# [Live Demo](https://github-profile-search-kappa.vercel.app/)
+
 ### Github Profiles
 
 This code is a JavaScript program that fetches data about a GitHub user and displays it on an HTML webpage.
